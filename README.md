@@ -1,2 +1,2 @@
 # hello-world
-Learning about github
+Just an Economics and Law student who's trying to wrap his head around programming...
